@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ilhanklisura/Projects/eClinica/eClinica.csproj": {}
+    "/Users/ilhanklisura/RiderProjects/eClinica/eClinica/eClinica.csproj": {}
   },
   "projects": {
-    "/Users/ilhanklisura/Projects/eClinica/eClinica.csproj": {
+    "/Users/ilhanklisura/RiderProjects/eClinica/eClinica/eClinica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ilhanklisura/Projects/eClinica/eClinica.csproj",
+        "projectUniqueName": "/Users/ilhanklisura/RiderProjects/eClinica/eClinica/eClinica.csproj",
         "projectName": "eClinica",
-        "projectPath": "/Users/ilhanklisura/Projects/eClinica/eClinica.csproj",
+        "projectPath": "/Users/ilhanklisura/RiderProjects/eClinica/eClinica/eClinica.csproj",
         "packagesPath": "/Users/ilhanklisura/.nuget/packages/",
-        "outputPath": "/Users/ilhanklisura/Projects/eClinica/obj/",
+        "outputPath": "/Users/ilhanklisura/RiderProjects/eClinica/eClinica/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ilhanklisura/.nuget/NuGet/NuGet.Config"
@@ -20,6 +20,7 @@
           "net8.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
